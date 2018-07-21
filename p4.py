@@ -1,0 +1,3 @@
+nu=input()
+print(nu+'.')
+    
